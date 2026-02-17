@@ -74,26 +74,6 @@ Frontend demo focused on UI architecture and API consumption.
 ### 🔹 [Next.js Expense Tracker](https://github.com/sanjaysisodiya0731/nextjs-react-expense-tracker)
 React + TypeScript practice project for modern frontend exposure.
 
-
-# 🔥 Practice & Demo Repositories
-
-Most repositories in this profile are concept-driven demo implementations created for continuous learning, architecture practice, and hands-on experimentation.
-
-### Laravel Role-Based Task Management
-Role-permission implementation with modular backend structure.
-
-### Laravel Microservices (Concept Implementation)
-Service-oriented architecture practice repository.
-
-### Laravel REST API – Expense Tracker
-Authentication, CRUD operations, and API structure practice.
-
-### Vue 3 + Quasar Task Tracker
-Frontend demo focused on UI architecture and API consumption.
-
-### Next.js Expense Tracker
-React + TypeScript practice project for modern frontend exposure.
-
 ---
 
 # 🎯 Career Focus
