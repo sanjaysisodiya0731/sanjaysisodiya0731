@@ -1,21 +1,16 @@
 # 👋 Hi, I'm Sanjay Sisodiya
 
-Senior Software Developer | 11+ Years Web Application Experience  
-Laravel Specialist | Full Stack (Vue.js / React.js) | API & Scalable Architecture
+Senior Laravel Backend Developer  
+11+ Years Web Application Development Experience  
+Full Stack Exposure (Vue.js / React.js)
 
 ---
 
 ## 🧠 Professional Summary
 
-Results-driven software developer with 11+ years of web application development experience across PHP frameworks and modern JavaScript technologies.
+Backend-focused software developer with 11+ years of experience in web application development and 4+ years of production-level Laravel expertise.
 
-• PHP – 7+ Years  
-• Laravel – 4+ Years (Production Level)  
-• CodeIgniter – 2+ Years  
-• Vue.js – 3+ Years  
-• React.js / Next.js / TypeScript – 1.5+ Years  
-
-Strong expertise in backend architecture, REST API development, database optimization, third-party integrations, and frontend–backend integration.
+Strong in scalable backend architecture, REST API development, database optimization, third-party integrations, and frontend–backend integration.
 
 🏆 Recognitions:
 - Most Dedicated Employee (2021)
@@ -24,50 +19,7 @@ Strong expertise in backend architecture, REST API development, database optimiz
 
 ---
 
-# 🔷 PROFILE 1: Laravel Backend Developer
-
-✔ 4+ years strong Laravel production experience  
-✔ 10+ Laravel-based projects delivered  
-✔ REST API design & development  
-✔ Modular architecture & service-layer structure  
-✔ Payment gateway integrations  
-✔ Shopify App Development  
-✔ MySQL / PostgreSQL optimization  
-✔ CI/CD deployment (Git-based auto deployment)
-
-🎯 Suitable For:
-Senior Laravel Developer | PHP Backend Developer | API Developer
-
----
-
-# 🔷 PROFILE 2: Full Stack Developer (Laravel + Vue.js)
-
-✔ 3+ Years Vue.js hands-on experience  
-✔ Vue 3 + Quasar Framework  
-✔ SPA architecture & API integration  
-✔ State management & performance optimization  
-✔ Laravel backend integration  
-✔ End-to-end feature delivery  
-
-🎯 Suitable For:
-Full Stack Developer (Laravel + Vue.js)
-
----
-
-# 🔷 PROFILE 3: Full Stack Developer (Laravel + React.js)
-
-✔ React.js + Next.js + TypeScript exposure  
-✔ Component-based architecture  
-✔ REST API integration  
-✔ Backend development with Laravel  
-✔ Full stack collaboration & deployment  
-
-🎯 Suitable For:
-Full Stack Developer (Laravel + React)
-
----
-
-# 🛠 Technical Stack
+## 💼 Core Expertise
 
 ### Backend (Primary Strength)
 - PHP
