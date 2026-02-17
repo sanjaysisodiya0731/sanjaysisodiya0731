@@ -87,9 +87,10 @@ Currently open to:
 
 ## 📫 Connect With Me
 
-📫 Email: sanjaysisodiya11@gmail.com
-📍 Current Location: Indore, India
-🔗 LinkedIn: https://www.linkedin.com/in/sanjay-sisodiya-262128240
+📫 Email: sanjaysisodiya11@gmail.com  
+📍 Current Location: Indore, India  
+🔗 LinkedIn: https://www.linkedin.com/in/sanjay-sisodiya-262128240  
+
 
 ---
 
