@@ -33,11 +33,11 @@ Strong in scalable backend architecture, REST API development, database optimiza
 - CI/CD Deployment
 
 ### Frontend (Full Stack Exposure)
-- Vue.js (Strong hands-on experience)
-- React.js / Next.js
-- TypeScript
+- Vue.js – Strong hands-on experience in SPA development and API integration
+- React.js / Next.js – Hands-on experience in modern component-based frontend architecture
+- TypeScript – Practical exposure in Next.js projects
 - SPA Architecture
-- API Integration
+- REST API Integration & State Management
 
 ### Databases
 - MySQL
