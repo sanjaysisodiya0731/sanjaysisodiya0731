@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Sanjay Sisodiya
 
-Senior Laravel Backend Developer  
+**Senior Laravel Backend Developer** 
 11+ Years Web Application Development Experience  
-Full Stack Exposure (Vue.js / React.js)
+Full Stack Exposure **(Vue.js / React.js)**
 
 ---
 
 ## 🧠 Professional Summary
 
-Backend-focused software developer with 11+ years of experience in web application development and 4+ years of production-level Laravel expertise.
+Backend-focused software developer with 11+ years of experience in web application development and **4+ years of production-level Laravel expertise.**
 
-Strong in scalable backend architecture, REST API development, database optimization, third-party integrations, and frontend–backend integration.
+Strong in **scalable backend architecture**, REST API development, database optimization, third-party integrations, and **frontend–backend integration**.
 
-🏆 Recognitions:
+**🏆 Recognitions:**
 - Most Dedicated Employee (2021)
 - Best Team Lead Award (2022)
 - 5 Years Dedicated Service Recognition
@@ -22,8 +22,8 @@ Strong in scalable backend architecture, REST API development, database optimiza
 ## 💼 Core Expertise
 
 ### Backend (Primary Strength)
-- PHP
-- Laravel (Production Applications)
+- **PHP**
+- **Laravel** (Production Applications)
 - CodeIgniter
 - REST API Architecture
 - Service Layer & Modular Structure
@@ -33,8 +33,8 @@ Strong in scalable backend architecture, REST API development, database optimiza
 - CI/CD Deployment
 
 ### Frontend (Full Stack Exposure)
-- Vue.js – Strong hands-on experience in SPA development and API integration
-- React.js / Next.js – Hands-on experience in modern component-based frontend architecture
+- **Vue.js** – Strong hands-on experience in SPA development and API integration
+- **React.js / Next.js** – Hands-on experience in modern component-based frontend architecture
 - TypeScript – Practical exposure in Next.js projects
 - SPA Architecture
 - REST API Integration & State Management
