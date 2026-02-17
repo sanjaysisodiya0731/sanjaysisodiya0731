@@ -69,17 +69,23 @@ Full Stack Developer (Laravel + React)
 
 # 🛠 Technical Stack
 
-### Backend & Frameworks
+### Backend (Primary Strength)
 - PHP
-- Laravel
+- Laravel (Production Applications)
 - CodeIgniter
+- REST API Architecture
+- Service Layer & Modular Structure
+- Payment Gateway Integration
+- Shopify App Development
+- MySQL / PostgreSQL Optimization
+- CI/CD Deployment
 
-### Frontend
-- JavaScript
-- Vue.js
-- React.js
-- Next.js
+### Frontend (Full Stack Exposure)
+- Vue.js (Strong hands-on experience)
+- React.js / Next.js
 - TypeScript
+- SPA Architecture
+- API Integration
 
 ### Databases
 - MySQL
@@ -92,14 +98,9 @@ Full Stack Developer (Laravel + React)
 - Shopify APIs
 - Third-Party API Integration
 
-### DevOps & Tools
-- Git
-- GitHub
-- Bitbucket
-- Jira
-- VS Code
-- CI/CD Deployment (Railway)
-- Environment Configuration
+### Currently Exploring
+- Node.js
+- MongoDB
 
 ---
 
@@ -128,8 +129,7 @@ React + TypeScript practice project for modern frontend exposure.
 
 Currently open to:
 - Senior Laravel Backend Developer Roles
-- Full Stack Developer (Laravel + Vue.js)
-- Full Stack Developer (Laravel + React.js)
+- Backend-Focused Full Stack Roles
 
 ---
 
