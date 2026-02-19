@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sanjay Sisodiya
 
 **Senior Laravel Backend Developer** 
-11+ Years Web Application Development Experience  
+10+ Years Web Application Development Experience  
 Full Stack Exposure **(Vue.js / React.js)**
 
 ---
 
 ## 🧠 Professional Summary
 
-Backend-focused software developer with 11+ years of experience in web application development and **4+ years of production-level Laravel expertise.**
+Backend-focused software developer with 10+ years of experience in web application development and **4+ years of production-level Laravel expertise.**
 
 Strong in **scalable backend architecture**, REST API development, database optimization, third-party integrations, and **frontend–backend integration**.
 
